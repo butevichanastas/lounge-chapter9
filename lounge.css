@@ -17,11 +17,15 @@ h2 {
     color: #444444;
     font-style: italic;
     line-height: 1.9em;
-    border-color: black;
+    border-color: white;
     border-width: 1px;
-    border-style: solid;
+    border-style: dashed;
     background-color: #a7cece;
-    margin: 25px;
-    padding: 30px;
+    margin: 30px;
+    margin-right: 250px;
+    padding: 25px;
+    padding-left: 80px; 
     background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
 }
